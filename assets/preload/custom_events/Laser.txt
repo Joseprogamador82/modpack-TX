@@ -1,0 +1,2 @@
+Vlaue 1: Beats the player has to hit space
+Value 2: nothing
