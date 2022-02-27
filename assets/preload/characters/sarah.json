@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-81,
+				-48
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sarah idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-98
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sarah left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-106,
+				-107
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sarah right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-211,
+				-48
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sarah up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-171,
+				-74
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sarah down"
+		},
+		{
+			"offsets": [
+				-594,
+				-38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "sarah hunt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sarah",
+	"position": [
+		30,
+		210
+	],
+	"healthicon": "sarah",
+	"flip_x": false,
+	"healthbar_colors": [
+		100,
+		60,
+		120
+	],
+	"camera_position": [
+		130,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

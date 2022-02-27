@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "beepmain",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "beep1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "beep2",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "cheer",
+			"fps": 24,
+			"name": "flatline",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/monitor",
+	"position": [
+		240,
+		-30
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-50,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

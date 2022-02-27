@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-291,
+				-290
+			],
+			"anim": "danceRight",
+			"fps": 4,
+			"name": "Pixel gf dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-291,
+				-290
+			],
+			"anim": "danceLeft",
+			"fps": 4,
+			"name": "Pixel gf dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-292,
+				-291
+			],
+			"anim": "sad",
+			"fps": 23,
+			"name": "Pixel gf miss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/marlonBG",
+	"position": [
+		0,
+		-110
+	],
+	"healthicon": "8bitgf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-310,
+		350
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

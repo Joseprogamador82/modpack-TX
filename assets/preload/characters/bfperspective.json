@@ -9,157 +9,113 @@
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "BF idle dance"
+			"name": "Idle"
 		},
 		{
 			"offsets": [
-				7,
-				-10
+				5,
+				-6
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "BF NOTE LEFT0"
+			"name": "Sing_Left"
 		},
 		{
 			"offsets": [
-				65,
-				-58
+				-60,
+				-10
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "BF NOTE DOWN0"
+			"name": "Sing_Down"
 		},
 		{
 			"offsets": [
-				-8,
-				12
+				-91,
+				56
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "BF NOTE UP0"
+			"name": "Sing_Up"
 		},
 		{
 			"offsets": [
-				-18,
-				-6
+				-45,
+				13
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "BF NOTE RIGHT0"
+			"name": "Sing_Right"
 		},
 		{
 			"offsets": [
-				-12,
-				-3
+				-13,
+				79
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFTmiss",
 			"indices": [],
-			"name": "BF NOTE LEFT MISS"
+			"name": "Left_Miss"
 		},
 		{
 			"offsets": [
-				45,
-				-13
+				-55,
+				1
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWNmiss",
 			"indices": [],
-			"name": "BF NOTE DOWN MISS"
+			"name": "Down_Miss"
 		},
 		{
 			"offsets": [
-				-6,
-				24
+				-92,
+				137
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUPmiss",
 			"indices": [],
-			"name": "BF NOTE UP MISS"
+			"name": "Up_Miss"
 		},
 		{
 			"offsets": [
-				-16,
-				32
+				-47,
+				87
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHTmiss",
 			"indices": [],
-			"name": "BF NOTE RIGHT MISS"
-		},
-		{
-			"offsets": [
-				-16,
-				15
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "hey",
-			"indices": [],
-			"name": "BF HEY"
-		},
-		{
-			"offsets": [
-				46,
-				3
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "firstDeath",
-			"indices": [],
-			"name": "BF dies"
-		},
-		{
-			"offsets": [
-				46,
-				-3
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "deathLoop",
-			"indices": [],
-			"name": "BF Dead Loop"
-		},
-		{
-			"offsets": [
-				46,
-				61
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "deathConfirm",
-			"indices": [],
-			"name": "BF Dead confirm"
+			"name": "Miss_Right"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/BFPhase3_Perspective",
 	"position": [
-		0,
-		350
+		-100,
+		300
 	],
 	"healthicon": "bf",
-	"flip_x": true,
+	"flip_x": false,
 	"healthbar_colors": [
-		86,
-		250,
-		87
+		49,
+		176,
+		209
 	],
 	"camera_position": [
-		100,
-		-50
+		80,
+		-160
 	],
 	"sing_duration": 4,
 	"scale": 1

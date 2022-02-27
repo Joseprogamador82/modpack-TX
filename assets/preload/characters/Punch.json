@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-225,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Punch"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Punch",
+	"position": [
+		360,
+		180
+	],
+	"healthicon": "sarah",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		160,
+		250
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				35,
+				290
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "jijijija-idle instancia 1"
+		},
+		{
+			"offsets": [
+				34,
+				286
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "jijijija-left instancia 1"
+		},
+		{
+			"offsets": [
+				35,
+				267
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "jijijija-down instancia 1"
+		},
+		{
+			"offsets": [
+				35,
+				327
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "jijijija-up instancia 1"
+		},
+		{
+			"offsets": [
+				34,
+				294
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "jijijija-right instancia 1"
+		},
+		{
+			"offsets": [
+				33,
+				323
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "JIJIJIJA",
+			"indices": [],
+			"name": "jijijija-laugh instancia 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/blueking",
+	"position": [
+		-140,
+		350
+	],
+	"healthicon": "blueking",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		20,
+		175
+	],
+	"camera_position": [
+		-80,
+		-400
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

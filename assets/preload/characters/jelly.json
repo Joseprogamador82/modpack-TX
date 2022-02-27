@@ -2,165 +2,165 @@
 	"animations": [
 		{
 			"offsets": [
-				-5,
-				0
+				-15,
+				-8
 			],
-			"loop": false,
+			"loop": true,
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "BF idle dance"
+			"name": "jellyidle"
 		},
 		{
 			"offsets": [
-				7,
-				-10
+				-57,
+				-11
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "BF NOTE LEFT0"
+			"name": "jellyleft"
 		},
 		{
 			"offsets": [
-				65,
-				-58
+				-128,
+				-34
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "BF NOTE DOWN0"
+			"name": "jellydown"
 		},
 		{
 			"offsets": [
-				-8,
-				12
+				-134,
+				71
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "BF NOTE UP0"
+			"name": "jellyup"
 		},
 		{
 			"offsets": [
-				-18,
-				-6
+				-124,
+				-5
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "BF NOTE RIGHT0"
+			"name": "jellyright"
 		},
 		{
 			"offsets": [
-				-12,
-				-3
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "BF NOTE LEFT MISS"
-		},
-		{
-			"offsets": [
-				45,
-				-13
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWNmiss",
-			"indices": [],
-			"name": "BF NOTE DOWN MISS"
-		},
-		{
-			"offsets": [
-				-6,
-				24
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUPmiss",
-			"indices": [],
-			"name": "BF NOTE UP MISS"
-		},
-		{
-			"offsets": [
-				-16,
-				32
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "BF NOTE RIGHT MISS"
-		},
-		{
-			"offsets": [
-				-16,
-				15
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "hey",
-			"indices": [],
-			"name": "BF HEY"
-		},
-		{
-			"offsets": [
-				46,
-				3
+				350,
+				380
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "firstDeath",
 			"indices": [],
-			"name": "BF dies"
+			"name": "jellydies1"
 		},
 		{
 			"offsets": [
-				46,
-				-3
+				-130,
+				-36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "jellymissdown"
+		},
+		{
+			"offsets": [
+				346,
+				197
 			],
 			"loop": true,
 			"fps": 24,
 			"anim": "deathLoop",
 			"indices": [],
-			"name": "BF Dead Loop"
+			"name": "jellydies2"
 		},
 		{
 			"offsets": [
-				46,
-				61
+				346,
+				197
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "deathConfirm",
 			"indices": [],
-			"name": "BF Dead confirm"
+			"name": "jellydies3"
+		},
+		{
+			"offsets": [
+				-57,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "jellymissleft"
+		},
+		{
+			"offsets": [
+				-123,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "jellymissright"
+		},
+		{
+			"offsets": [
+				-134,
+				72
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "jellymissup"
+		},
+		{
+			"offsets": [
+				0,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "",
+			"indices": [],
+			"name": ""
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/jelly",
 	"position": [
-		0,
-		350
+		-200,
+		260
 	],
-	"healthicon": "bf",
+	"healthicon": "jelly",
 	"flip_x": true,
 	"healthbar_colors": [
-		86,
-		250,
-		87
+		49,
+		176,
+		209
 	],
 	"camera_position": [
-		100,
-		-50
+		500,
+		-290
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 0.95
 }

@@ -2,8 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				-5,
-				0
+				5,
+				10
 			],
 			"loop": false,
 			"fps": 24,
@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				7,
-				-10
+				15,
+				4
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				65,
-				-58
+				-14,
+				-35
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				-8,
-				12
+				-38,
+				31
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				-18,
-				-6
+				-44,
+				2
 			],
 			"loop": false,
 			"fps": 24,
@@ -57,8 +57,8 @@
 		},
 		{
 			"offsets": [
-				-12,
-				-3
+				7,
+				19
 			],
 			"loop": false,
 			"fps": 24,
@@ -68,8 +68,8 @@
 		},
 		{
 			"offsets": [
-				45,
-				-13
+				-15,
+				-19
 			],
 			"loop": false,
 			"fps": 24,
@@ -79,8 +79,8 @@
 		},
 		{
 			"offsets": [
-				-6,
-				24
+				-36,
+				27
 			],
 			"loop": false,
 			"fps": 24,
@@ -90,8 +90,8 @@
 		},
 		{
 			"offsets": [
-				-16,
-				32
+				-44,
+				22
 			],
 			"loop": false,
 			"fps": 24,
@@ -101,19 +101,8 @@
 		},
 		{
 			"offsets": [
-				-16,
-				15
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "hey",
-			"indices": [],
-			"name": "BF HEY"
-		},
-		{
-			"offsets": [
-				46,
-				3
+				37,
+				11
 			],
 			"loop": false,
 			"fps": 24,
@@ -123,8 +112,8 @@
 		},
 		{
 			"offsets": [
-				46,
-				-3
+				37,
+				5
 			],
 			"loop": true,
 			"fps": 24,
@@ -134,8 +123,8 @@
 		},
 		{
 			"offsets": [
-				46,
-				61
+				37,
+				69
 			],
 			"loop": false,
 			"fps": 24,
@@ -145,21 +134,21 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/BF",
 	"position": [
 		0,
-		350
+		0
 	],
 	"healthicon": "bf",
 	"flip_x": true,
 	"healthbar_colors": [
-		86,
-		250,
-		87
+		49,
+		176,
+		209
 	],
 	"camera_position": [
-		100,
-		-50
+		0,
+		0
 	],
 	"sing_duration": 4,
 	"scale": 1
