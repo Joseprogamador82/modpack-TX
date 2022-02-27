@@ -1,0 +1,31 @@
+{
+	"storyName": "Lechan God lol",
+	"hideFreeplay": false,
+	"weekBackground": "Whitty",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"Whit",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Detonator",
+			"Whitty",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"weekName": "whitty bonus week"
+}

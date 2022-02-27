@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"HE HE HE HAW",
+			"blueking",
+			[
+				246,
+				65,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "JIJIJIJA",
+	"weekName": "weekhehehehaw",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

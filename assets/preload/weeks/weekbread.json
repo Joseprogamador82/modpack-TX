@@ -1,0 +1,40 @@
+{
+	"storyName": "Oh My Funkin' God",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "rockettoast",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Oh My God",
+			"omfg",
+			[
+				255,
+				200,
+				0
+			]
+		],
+		[
+			"Think I'm Dying",
+			"Omfg",
+			[
+				146,
+				13,
+				235
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Toast Week"
+}

@@ -1,0 +1,44 @@
+{
+	"storyName": "There is no God - only me",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"bell",
+			"sarah",
+			[
+				165,
+				0,
+				77
+			]
+		],
+		[
+			"you-cant-run",
+			"sarah",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"escape",
+			"sarah",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "week7"
+}
