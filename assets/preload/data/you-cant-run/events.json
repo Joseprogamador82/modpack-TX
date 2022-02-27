@@ -1,0 +1,1559 @@
+{
+	"song": {
+		"speed": 3.3,
+		"stage": "stage",
+		"player1": "8bitbf",
+		"player2": "sarah",
+		"player3": null,
+		"events": [
+			[
+				1928.57142857143,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				2035.71428571429,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				2464.28571428571,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				2571.42857142857,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				3214.28571428571,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				3321.42857142857,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				11892.8571428571,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				12107.1428571429,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				12214.2857142857,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				12428.5714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				12535.7142857143,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				12642.8571428571,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				12964.2857142857,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				13071.4285714286,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				13178.5714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				13285.7142857143,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				13392.8571428571,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				13500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				13607.1428571429,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				14464.2857142857,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				14678.5714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				14892.8571428571,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				15107.1428571429,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				15214.2857142857,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				15321.4285714286,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				15964.2857142857,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				16607.1428571429,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				17035.7142857143,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				17678.5714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				18642.8571428571,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				19392.8571428571,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				19928.5714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				21107.1428571429,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				21642.8571428571,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				22071.4285714286,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				26571.4285714286,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				33107.1428571428,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				33642.8571428571,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				34178.5714285714,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				35035.7142857143,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"0.08"
+					]
+				]
+			],
+			[
+				35142.8571428571,
+				[
+					[
+						"Screen Shake",
+						"1, 0.00",
+						"0.06"
+					]
+				]
+			],
+			[
+				35250,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				35357.1428571429,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				35464.2857142857,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				35571.4285714286,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				35678.5714285714,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				35785.7142857143,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				35892.8571428571,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				36000,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				36107.1428571429,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				36214.2857142857,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				43928.5714285714,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				44357.1428571429,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				46928.5714285714,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				48750,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				49607.1428571429,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				55821.4285714286,
+				[
+					[
+						"Screen Shake",
+						"1, 0.00",
+						"0.05"
+					]
+				]
+			],
+			[
+				55928.5714285715,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				56035.7142857143,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				56142.8571428572,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				56250,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				56357.1428571429,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				56464.2857142857,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				56892.8571428572,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				57000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				57107.1428571429,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				57214.2857142858,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				57321.4285714286,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				58071.4285714286,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				58714.2857142858,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59357.1428571429,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				63642.8571428572,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				63750.0000000001,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				64285.7142857143,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				64500.0000000001,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				64928.5714285715,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				65142.8571428572,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				65571.4285714286,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				65785.7142857143,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				66214.2857142858,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				70500,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				70607.1428571429,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				71142.8571428572,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				71357.1428571429,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				71785.7142857143,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				72107.1428571429,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				72214.2857142858,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				72428.5714285715,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				72642.8571428572,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				73071.4285714286,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				77357.1428571429,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				77464.2857142857,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				78000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				78214.2857142857,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				78642.8571428572,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				78964.2857142857,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				79285.7142857143,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				79714.2857142857,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				79928.5714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Screen Shake",
+						"6, 0.00",
+						"0.05"
+					]
+				]
+			],
+			[
+				84428.5714285714,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				85285.7142857143,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				86250,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				87107.1428571429,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				87857.1428571429,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				88714.2857142857,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				89571.4285714286,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				89678.5714285714,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				90321.4285714286,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				90428.5714285714,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				91285.7142857143,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				92142.8571428571,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				93000,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				93750,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				94285.7142857143,
+				[
+					[
+						"Screen Shake",
+						"6, 0.00",
+						"0.05"
+					]
+				]
+			],
+			[
+				100178.571428571,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				106714.285714286,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				107571.428571429,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				113571.428571429,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				117642.857142857,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				124285.714285714,
+				[
+					[
+						"Screen Shake",
+						"1, 0.00",
+						"0.05"
+					]
+				]
+			],
+			[
+				124392.857142857,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				124500,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				124607.142857143,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				124714.285714286,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				124821.428571428,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				124928.571428571,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				125035.714285714,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				126107.142857143,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				126750,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				128464.285714286,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				132000,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				135214.285714286,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				136285.714285714,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				138535.714285714,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				138642.857142857,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				138750,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				139821.428571428,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				141321.428571428,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				142821.428571428,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				148285.714285714,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				148392.857142857,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				150428.571428571,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				150535.714285714,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				153000,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				153535.714285714,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				154071.428571428,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				154607.142857143,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				154714.285714286,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				155035.714285714,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				155142.857142857,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				155464.285714286,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			],
+			[
+				155571.428571428,
+				[
+					[
+						"Play Animation",
+						"singRIGHTmiss",
+						"dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-pixel",
+		"bpm": 140,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "you-cant-run"
+	}
+}
