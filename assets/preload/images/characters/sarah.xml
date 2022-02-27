@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sarah.png">
+<SubTexture name="sarah idle0000" x="0" y="0" width="428" height="450" frameX="0" frameY="0" frameWidth="428" frameHeight="450" />
+<SubTexture name="sarah idle0001" x="428" y="0" width="428" height="450" frameX="0" frameY="0" frameWidth="428" frameHeight="450" />
+<SubTexture name="sarah idle0002" x="856" y="0" width="428" height="450" frameX="0" frameY="0" frameWidth="428" frameHeight="450" />
+<SubTexture name="sarah idle0003" x="1284" y="0" width="428" height="439" frameX="0" frameY="0" frameWidth="428" frameHeight="439" />
+<SubTexture name="sarah idle0004" x="0" y="450" width="428" height="450" frameX="0" frameY="0" frameWidth="428" frameHeight="450" />
+<SubTexture name="sarah down0000" x="428" y="450" width="374" height="406" frameX="0" frameY="0" frameWidth="374" frameHeight="406" />
+<SubTexture name="sarah down0001" x="802" y="450" width="374" height="428" frameX="0" frameY="0" frameWidth="374" frameHeight="428" />
+<SubTexture name="sarah left0000" x="1176" y="450" width="396" height="406" frameX="0" frameY="0" frameWidth="396" frameHeight="406" />
+<SubTexture name="sarah left0001" x="0" y="900" width="396" height="406" frameX="0" frameY="0" frameWidth="396" frameHeight="406" />
+<SubTexture name="sarah up0000" x="396" y="900" width="309" height="451" frameX="0" frameY="0" frameWidth="309" frameHeight="451" />
+<SubTexture name="sarah up0001" x="705" y="900" width="309" height="440" frameX="0" frameY="0" frameWidth="309" frameHeight="440" />
+<SubTexture name="sarah right0000" x="1014" y="900" width="461" height="417" frameX="0" frameY="0" frameWidth="461" frameHeight="417" />
+<SubTexture name="sarah right0001" x="0" y="1351" width="450" height="417" frameX="0" frameY="0" frameWidth="450" frameHeight="417" />
+<SubTexture name="sarah right0002" x="450" y="1351" width="461" height="417" frameX="0" frameY="0" frameWidth="461" frameHeight="417" />
+<SubTexture name="sarah right0003" x="911" y="1351" width="450" height="417" frameX="0" frameY="0" frameWidth="450" frameHeight="417" />
+<SubTexture name="sarah hunt0000" x="1361" y="1351" width="428" height="450" frameX="0" frameY="0" frameWidth="428" frameHeight="450" />
+<SubTexture name="sarah hunt0001" x="1361" y="1351" width="428" height="450" frameX="0" frameY="0" frameWidth="428" frameHeight="450" />
+<SubTexture name="sarah hunt0002" x="1361" y="1351" width="428" height="450" frameX="0" frameY="0" frameWidth="428" frameHeight="450" />
+</TextureAtlas>

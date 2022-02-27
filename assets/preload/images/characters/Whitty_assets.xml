@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="whitty.png"><SubTexture name="Idle0000" x="0" y="0" width="351" height="484" frameX="0" frameY="0" frameWidth="351" frameHeight="484" />
+<SubTexture name="Idle0001" x="351" y="0" width="350" height="489" frameX="0" frameY="0" frameWidth="350" frameHeight="489" />
+<SubTexture name="Idle0002" x="701" y="0" width="349" height="488" frameX="0" frameY="0" frameWidth="349" frameHeight="488" />
+<SubTexture name="Idle0003" x="0" y="489" width="349" height="487" frameX="0" frameY="0" frameWidth="349" frameHeight="487" />
+<SubTexture name="Idle0004" x="349" y="489" width="350" height="488" frameX="0" frameY="0" frameWidth="350" frameHeight="488" />
+<SubTexture name="Sing Right0000" x="699" y="489" width="442" height="483" frameX="0" frameY="0" frameWidth="442" frameHeight="483" />
+<SubTexture name="Sing Right0001" x="0" y="977" width="447" height="483" frameX="0" frameY="0" frameWidth="447" frameHeight="483" />
+<SubTexture name="Sing Down0000" x="447" y="977" width="333" height="482" frameX="0" frameY="0" frameWidth="333" frameHeight="482" />
+<SubTexture name="Sing Down0001" x="780" y="977" width="333" height="482" frameX="0" frameY="0" frameWidth="333" frameHeight="482" />
+<SubTexture name="Sing Left0000" x="0" y="1460" width="395" height="467" frameX="0" frameY="0" frameWidth="395" frameHeight="467" />
+<SubTexture name="Sing Left0001" x="395" y="1460" width="403" height="467" frameX="0" frameY="0" frameWidth="403" frameHeight="467" />
+<SubTexture name="Sing Up0000" x="798" y="1460" width="382" height="512" frameX="0" frameY="0" frameWidth="382" frameHeight="512" />
+<SubTexture name="Sing Up0001" x="0" y="1972" width="377" height="512" frameX="0" frameY="0" frameWidth="377" frameHeight="512" />
+</TextureAtlas>
