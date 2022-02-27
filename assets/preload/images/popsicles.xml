@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="popsicles.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="popsicles0000" x="0" y="0" width="2250" height="507" frameX="0" frameY="-35" frameWidth="2250" frameHeight="542"/>
+	<SubTexture name="popsicles0001" x="0" y="0" width="2250" height="507" frameX="0" frameY="-35" frameWidth="2250" frameHeight="542"/>
+	<SubTexture name="popsicles0002" x="0" y="507" width="2250" height="523" frameX="0" frameY="-18" frameWidth="2250" frameHeight="542"/>
+	<SubTexture name="popsicles0003" x="0" y="507" width="2250" height="523" frameX="0" frameY="-18" frameWidth="2250" frameHeight="542"/>
+	<SubTexture name="popsicles0004" x="0" y="1030" width="2250" height="541" frameX="0" frameY="0" frameWidth="2250" frameHeight="542"/>
+	<SubTexture name="popsicles0005" x="0" y="1030" width="2250" height="541" frameX="0" frameY="0" frameWidth="2250" frameHeight="542"/>
+	<SubTexture name="popsicles0006" x="0" y="1030" width="2250" height="541" frameX="0" frameY="0" frameWidth="2250" frameHeight="542"/>
+	<SubTexture name="popsicles0007" x="0" y="1030" width="2250" height="541" frameX="0" frameY="0" frameWidth="2250" frameHeight="542"/>
+	<SubTexture name="popsicles0008" x="0" y="1030" width="2250" height="541" frameX="0" frameY="0" frameWidth="2250" frameHeight="542"/>
+	<SubTexture name="popsicles0009" x="0" y="1030" width="2250" height="541" frameX="0" frameY="0" frameWidth="2250" frameHeight="542"/>
+	<SubTexture name="popsicles0010" x="0" y="1030" width="2250" height="541" frameX="0" frameY="0" frameWidth="2250" frameHeight="542"/>
+	<SubTexture name="popsicles0011" x="0" y="1030" width="2250" height="541" frameX="0" frameY="0" frameWidth="2250" frameHeight="542"/>
+	<SubTexture name="popsicles0012" x="0" y="1030" width="2250" height="541" frameX="0" frameY="0" frameWidth="2250" frameHeight="542"/>
+	<SubTexture name="popsicles0013" x="0" y="1030" width="2250" height="541" frameX="0" frameY="0" frameWidth="2250" frameHeight="542"/>
+</TextureAtlas>

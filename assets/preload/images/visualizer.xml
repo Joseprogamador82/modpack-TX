@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Untitled-1.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="visualizer0000" x="0" y="0" width="284" height="640" frameX="-1" frameY="-33" frameWidth="285" frameHeight="765"/>
+	<SubTexture name="visualizer0001" x="284" y="0" width="284" height="626" frameX="-1" frameY="-44" frameWidth="285" frameHeight="765"/>
+	<SubTexture name="visualizer0002" x="568" y="0" width="284" height="582" frameX="-1" frameY="-85" frameWidth="285" frameHeight="765"/>
+	<SubTexture name="visualizer0003" x="852" y="0" width="285" height="634" frameX="0" frameY="-92" frameWidth="285" frameHeight="765"/>
+	<SubTexture name="visualizer0004" x="1137" y="0" width="285" height="648" frameX="0" frameY="-89" frameWidth="285" frameHeight="765"/>
+	<SubTexture name="visualizer0005" x="1422" y="0" width="285" height="646" frameX="0" frameY="-83" frameWidth="285" frameHeight="765"/>
+	<SubTexture name="visualizer0006" x="1707" y="0" width="285" height="635" frameX="0" frameY="-44" frameWidth="285" frameHeight="765"/>
+	<SubTexture name="visualizer0007" x="1992" y="0" width="285" height="623" frameX="0" frameY="-6" frameWidth="285" frameHeight="765"/>
+	<SubTexture name="visualizer0008" x="2277" y="0" width="285" height="621" frameX="0" frameY="0" frameWidth="285" frameHeight="765"/>
+	<SubTexture name="visualizer0009" x="2562" y="0" width="285" height="618" frameX="0" frameY="-1" frameWidth="285" frameHeight="765"/>
+	<SubTexture name="visualizer0010" x="2847" y="0" width="285" height="637" frameX="0" frameY="-9" frameWidth="285" frameHeight="765"/>
+	<SubTexture name="visualizer0011" x="3132" y="0" width="285" height="701" frameX="0" frameY="-17" frameWidth="285" frameHeight="765"/>
+	<SubTexture name="visualizer0012" x="3417" y="0" width="284" height="711" frameX="-1" frameY="-18" frameWidth="285" frameHeight="765"/>
+	<SubTexture name="visualizer0013" x="3701" y="0" width="284" height="698" frameX="-1" frameY="-29" frameWidth="285" frameHeight="765"/>
+	<SubTexture name="visualizer0014" x="0" y="711" width="284" height="634" frameX="-1" frameY="-80" frameWidth="285" frameHeight="765"/>
+	<SubTexture name="visualizer0015" x="284" y="711" width="284" height="598" frameX="-1" frameY="-114" frameWidth="285" frameHeight="765"/>
+	<SubTexture name="visualizer0016" x="568" y="711" width="284" height="603" frameX="-1" frameY="-119" frameWidth="285" frameHeight="765"/>
+	<SubTexture name="visualizer0017" x="852" y="711" width="284" height="594" frameX="-1" frameY="-118" frameWidth="285" frameHeight="765"/>
+	<SubTexture name="visualizer0018" x="1136" y="711" width="284" height="624" frameX="-1" frameY="-106" frameWidth="285" frameHeight="765"/>
+	<SubTexture name="visualizer0019" x="1420" y="711" width="285" height="719" frameX="0" frameY="-41" frameWidth="285" frameHeight="765"/>
+	<SubTexture name="visualizer0020" x="1705" y="711" width="285" height="734" frameX="0" frameY="-31" frameWidth="285" frameHeight="765"/>
+	<SubTexture name="visualizer0021" x="1990" y="711" width="285" height="718" frameX="0" frameY="-35" frameWidth="285" frameHeight="765"/>
+	<SubTexture name="visualizer0022" x="2275" y="711" width="285" height="623" frameX="0" frameY="-64" frameWidth="285" frameHeight="765"/>
+	<SubTexture name="visualizer0023" x="2560" y="711" width="285" height="659" frameX="0" frameY="-62" frameWidth="285" frameHeight="765"/>
+	<SubTexture name="visualizer0024" x="2845" y="711" width="285" height="675" frameX="0" frameY="-51" frameWidth="285" frameHeight="765"/>
+	<SubTexture name="visualizer0025" x="3130" y="711" width="285" height="668" frameX="0" frameY="-50" frameWidth="285" frameHeight="765"/>
+	<SubTexture name="visualizer0026" x="3415" y="711" width="285" height="621" frameX="0" frameY="-43" frameWidth="285" frameHeight="765"/>
+	<SubTexture name="visualizer0027" x="3700" y="711" width="285" height="574" frameX="0" frameY="-36" frameWidth="285" frameHeight="765"/>
+	<SubTexture name="visualizer0028" x="0" y="1445" width="285" height="566" frameX="0" frameY="-35" frameWidth="285" frameHeight="765"/>
+	<SubTexture name="visualizer0029" x="285" y="1445" width="285" height="567" frameX="0" frameY="-40" frameWidth="285" frameHeight="765"/>
+	<SubTexture name="visualizer0030" x="570" y="1445" width="284" height="626" frameX="-1" frameY="-37" frameWidth="285" frameHeight="765"/>
+	<SubTexture name="visualizer0031" x="0" y="0" width="284" height="640" frameX="-1" frameY="-33" frameWidth="285" frameHeight="765"/>
+</TextureAtlas>
