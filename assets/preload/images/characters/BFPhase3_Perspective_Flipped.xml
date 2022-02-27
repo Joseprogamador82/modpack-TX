@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BFPhase3_Perspective_Flipped.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle_Flip0000" x="1050" y="0" width="498" height="485"/>
+	<SubTexture name="Idle_Flip0001" x="1050" y="0" width="499" height="482"/>
+	<SubTexture name="Idle_Flip0002" x="1050" y="0" width="500" height="480"/>
+	<SubTexture name="Idle_Flip0003" x="0" y="485" width="498" height="478"/>
+	<SubTexture name="Idle_Flip0004" x="0" y="486" width="499" height="482"/>
+	<SubTexture name="Idle_Flip0005" x="0" y="484" width="498" height="487"/>
+	<SubTexture name="Idle_Flip0006" x="498" y="485" width="499" height="492"/>
+	<SubTexture name="Idle_Flip0007" x="997" y="495" width="493" height="492"/>
+	<SubTexture name="Idle_Flip0008" x="0" y="977" width="490" height="495"/>
+	<SubTexture name="Sing_Down_Flip0000" x="0" y="0" width="495" height="465"/>
+	<SubTexture name="Sing_Down_Flip0001" x="0" y="0" width="495" height="474"/>
+	<SubTexture name="Sing_Down_Flip0002" x="495" y="0" width="495" height="480"/>
+	<SubTexture name="Sing_Left_Flip0000" x="490" y="977" width="517" height="505"/>
+	<SubTexture name="Sing_Left_Flip0001" x="490" y="977" width="505" height="507"/>
+	<SubTexture name="Sing_Left_Flip0002" x="1007" y="977" width="491" height="493"/>
+	<SubTexture name="Sing_Right_Flip0000" x="1578" y="0" width="473" height="480"/>
+	<SubTexture name="Sing_Right_Flip0001" x="1556" y="0" width="476" height="480"/>
+	<SubTexture name="Sing_Right_Flip0002" x="1548" y="480" width="480" height="482"/>
+	<SubTexture name="Sing_Up_Flip0000" x="1498" y="962" width="452" height="551"/>
+	<SubTexture name="Sing_Up_Flip0001" x="1498" y="963" width="455" height="553"/>
+	<SubTexture name="Sing_Up_Flip0002" x="0" y="1513" width="459" height="436"/>
+</TextureAtlas>
